@@ -1,0 +1,12 @@
+# Problem 1
+1a. (1/10)^n probability of getting n zeros at the end. The server needs tocompute 1 HMAC to confirm the solution.
+
+2b. 
+
+1c. The NTP protocol will reply to forged IP addresses and also comes with a built in command called monlist to send long replies to short packets. 
+
+2a. Each bot contributed roughly 203.947368 kBps of bandwidth. As of September 2014, the average connection speed in the US is 31 Mbps
+
+2b. It scans for IoT devices on a network and uses a predefined dictionary of common usernames and passwords to gain access to devices.
+
+2c. Users should reboot their devices and change their device login credentials so that they are not generic. 
